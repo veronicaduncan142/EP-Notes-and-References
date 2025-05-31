@@ -1,9 +1,9 @@
 # EP2210 Principles of Quantum Mechanics
 
 Text books used in the course:
-•⁠  ⁠D. J. Griffiths, Introduction to Quantum Mechanics, Third Edition (Cambridge University Press Education, 2018)
-•⁠  ⁠A. Rae, Quantum Mechanics, Fifth Edition (Taylor and Francis, 2007) 
-•⁠  ⁠Excellent lecture notes which cover most of the course by David Tong (University of Cambridge)
+- ⁠D. J. Griffiths, Introduction to Quantum Mechanics, Third Edition (Cambridge University Press Education, 2018)
+- A. Rae, Quantum Mechanics, Fifth Edition (Taylor and Francis, 2007) 
+- Excellent lecture notes which cover most of the course by David Tong (University of Cambridge)
 
 The handwritten notes uploaded in this folder are solely based on Griffiths' book.
 
