@@ -1,4 +1,4 @@
-# EP-Sem-4
+# EP Handwritten notes
 
 I got an iPad just before 4th semester, and it was the best thing that happened to me. Here are my notes, all which I totally enjoyed while taking <3
 
